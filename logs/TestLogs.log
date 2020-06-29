@@ -1,0 +1,232 @@
+19:14:35.102 [main] DEBUG Resources.Base - Intializing DriverInitilize method.
+19:14:35.106 [main] INFO  Resources.Base - Selected Google chrome browser for testcases excecution.
+19:14:37.999 [main] DEBUG Resources.Base - Chrome Driver executed.
+19:14:39.147 [main] INFO  Resources.Base - Window Maximized
+19:14:39.164 [main] INFO  Resources.Base - Implicit wait set as 10 SECONDS.
+19:14:39.181 [main] INFO  Resources.Base - [TestResult name=Login status=STARTED method=LoginLogout.Login(java.lang.String, java.lang.String)[pri:0, instance:HRM.LoginLogout@43dac38f] output={null}] Start execution
+19:14:39.181 [main] DEBUG Resources.Base - Now hitting URL
+19:14:41.977 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:14:43.152 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:14:43.153 [main] INFO  Resources.Base - [TestResult name=Login status=SUCCESS method=LoginLogout.Login(java.lang.String, java.lang.String)[pri:0, instance:HRM.LoginLogout@43dac38f] output={null}] Test passed
+19:14:43.153 [main] INFO  Resources.Base - [TestResult name=Login status=STARTED method=LoginLogout.Login(java.lang.String, java.lang.String)[pri:0, instance:HRM.LoginLogout@43dac38f] output={null}] Start execution
+19:14:43.154 [main] DEBUG Resources.Base - Now hitting URL
+19:14:43.599 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:14:45.664 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:14:45.665 [main] INFO  Resources.Base - [TestResult name=Login status=SUCCESS method=LoginLogout.Login(java.lang.String, java.lang.String)[pri:0, instance:HRM.LoginLogout@43dac38f] output={null}] Test passed
+19:14:45.667 [main] DEBUG Resources.Base - Closing driver after test case execution.
+19:14:45.787 [main] INFO  Resources.Base - Diver closeed sucessfully.
+19:14:45.829 [main] DEBUG Resources.Base - Intializing DriverInitilize method.
+19:14:45.829 [main] INFO  Resources.Base - Selected Google chrome browser for testcases excecution.
+19:14:48.082 [main] DEBUG Resources.Base - Chrome Driver executed.
+19:14:49.227 [main] INFO  Resources.Base - Window Maximized
+19:14:49.232 [main] INFO  Resources.Base - Implicit wait set as 10 SECONDS.
+19:14:49.233 [main] INFO  Resources.Base - [TestResult name=AddingJobTitle status=STARTED method=AddJobTitle.AddingJobTitle(java.lang.String, java.lang.String)[pri:0, instance:HRM.AddJobTitle@7bab3f1a] output={null}] Start execution
+19:14:49.233 [main] DEBUG Resources.Base - Now hitting URL
+19:14:52.080 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:14:54.358 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:14:57.779 [main] INFO  Resources.Base - Landed on Job Titlespage.
+19:15:09.663 [main] INFO  Resources.Base - [TestResult name=AddingJobTitle status=STARTED method=AddJobTitle.AddingJobTitle(java.lang.String, java.lang.String)[pri:0, instance:HRM.AddJobTitle@7bab3f1a] output={null}] Start execution
+19:15:09.663 [main] DEBUG Resources.Base - Now hitting URL
+19:15:10.807 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:15:12.381 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:15:15.142 [main] INFO  Resources.Base - Landed on Job Titlespage.
+19:15:26.761 [main] DEBUG Resources.Base - Closing driver after test case execution.
+19:15:26.850 [main] INFO  Resources.Base - Diver closeed sucessfully.
+19:15:26.895 [main] DEBUG Resources.Base - Intializing DriverInitilize method.
+19:15:26.896 [main] INFO  Resources.Base - Selected Google chrome browser for testcases excecution.
+19:15:29.190 [main] DEBUG Resources.Base - Chrome Driver executed.
+19:15:30.333 [main] INFO  Resources.Base - Window Maximized
+19:15:30.338 [main] INFO  Resources.Base - Implicit wait set as 10 SECONDS.
+19:15:30.338 [main] DEBUG Resources.Base - Now hitting URL
+19:15:33.293 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:15:33.294 [main] INFO  Resources.Base - [TestResult name=creatnewuser status=STARTED method=AddUser.creatnewuser()[pri:0, instance:HRM.AddUser@67f639d3] output={null}] Start execution
+19:15:35.498 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:15:39.093 [main] INFO  Resources.Base - Landed on User Management page.
+19:15:40.249 [main] INFO  Resources.Base - Sucessfully added new user
+19:15:40.249 [main] INFO  Resources.Base - [TestResult name=creatnewuser status=SUCCESS method=AddUser.creatnewuser()[pri:0, instance:HRM.AddUser@67f639d3] output={null}] Test passed
+19:15:40.250 [main] DEBUG Resources.Base - Closing driver after test case execution.
+19:15:40.347 [main] INFO  Resources.Base - Diver closeed sucessfully.
+19:15:40.354 [main] DEBUG Resources.Base - Intializing DriverInitilize method.
+19:15:40.355 [main] INFO  Resources.Base - Selected Google chrome browser for testcases excecution.
+19:15:42.729 [main] DEBUG Resources.Base - Chrome Driver executed.
+19:15:43.863 [main] INFO  Resources.Base - Window Maximized
+19:15:43.867 [main] INFO  Resources.Base - Implicit wait set as 10 SECONDS.
+19:15:43.868 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=STARTED method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@51e69659] output={null}] Start execution
+19:15:43.868 [main] DEBUG Resources.Base - Now hitting URL
+19:15:46.702 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:15:48.857 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:15:51.696 [main] INFO  Resources.Base - Landed on User Management page.
+19:15:52.479 [main] INFO  Resources.Base - Search funcationality of user working properly.
+19:15:52.479 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=SUCCESS method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@51e69659] output={null}] Test passed
+19:15:52.480 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=STARTED method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@51e69659] output={null}] Start execution
+19:15:52.481 [main] DEBUG Resources.Base - Now hitting URL
+19:15:52.870 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:15:54.467 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:15:56.608 [main] INFO  Resources.Base - Landed on User Management page.
+19:15:57.513 [main] INFO  Resources.Base - Search funcationality of user working properly.
+19:15:57.514 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=SUCCESS method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@51e69659] output={null}] Test passed
+19:15:57.514 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=STARTED method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@51e69659] output={null}] Start execution
+19:15:57.515 [main] DEBUG Resources.Base - Now hitting URL
+19:15:57.937 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:15:59.555 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:16:01.633 [main] INFO  Resources.Base - Landed on User Management page.
+19:16:02.450 [main] INFO  Resources.Base - Search funcationality of user working properly.
+19:16:02.451 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=SUCCESS method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@51e69659] output={null}] Test passed
+19:16:02.451 [main] DEBUG Resources.Base - Closing driver after test case execution.
+19:16:02.542 [main] INFO  Resources.Base - Diver closeed sucessfully.
+19:45:09.861 [main] DEBUG Resources.Base - Intializing DriverInitilize method.
+19:45:09.871 [main] INFO  Resources.Base - Selected Google chrome browser for testcases excecution.
+19:45:15.171 [main] DEBUG Resources.Base - Chrome Driver executed.
+19:45:16.337 [main] INFO  Resources.Base - Window Maximized
+19:45:16.347 [main] INFO  Resources.Base - Implicit wait set as 10 SECONDS.
+19:45:16.365 [main] INFO  Resources.Base - [TestResult name=Login status=STARTED method=LoginLogout.Login(java.lang.String, java.lang.String)[pri:0, instance:HRM.LoginLogout@43dac38f] output={null}] Start execution
+19:45:16.365 [main] DEBUG Resources.Base - Now hitting URL
+19:45:19.579 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:45:21.210 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:45:21.211 [main] INFO  Resources.Base - [TestResult name=Login status=SUCCESS method=LoginLogout.Login(java.lang.String, java.lang.String)[pri:0, instance:HRM.LoginLogout@43dac38f] output={null}] Test passed
+19:45:21.212 [main] INFO  Resources.Base - [TestResult name=Login status=STARTED method=LoginLogout.Login(java.lang.String, java.lang.String)[pri:0, instance:HRM.LoginLogout@43dac38f] output={null}] Start execution
+19:45:21.212 [main] DEBUG Resources.Base - Now hitting URL
+19:45:21.716 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:45:23.762 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:45:23.762 [main] INFO  Resources.Base - [TestResult name=Login status=SUCCESS method=LoginLogout.Login(java.lang.String, java.lang.String)[pri:0, instance:HRM.LoginLogout@43dac38f] output={null}] Test passed
+19:45:23.775 [main] DEBUG Resources.Base - Closing driver after test case execution.
+19:45:23.988 [main] INFO  Resources.Base - Diver closeed sucessfully.
+19:45:24.049 [main] DEBUG Resources.Base - Intializing DriverInitilize method.
+19:45:24.050 [main] INFO  Resources.Base - Selected Google chrome browser for testcases excecution.
+19:45:26.634 [main] DEBUG Resources.Base - Chrome Driver executed.
+19:45:27.779 [main] INFO  Resources.Base - Window Maximized
+19:45:27.788 [main] INFO  Resources.Base - Implicit wait set as 10 SECONDS.
+19:45:27.789 [main] INFO  Resources.Base - [TestResult name=AddingJobTitle status=STARTED method=AddJobTitle.AddingJobTitle(java.lang.String, java.lang.String)[pri:0, instance:HRM.AddJobTitle@7bab3f1a] output={null}] Start execution
+19:45:27.790 [main] DEBUG Resources.Base - Now hitting URL
+19:45:30.670 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:45:33.382 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:45:37.575 [main] INFO  Resources.Base - Landed on Job Titlespage.
+19:45:40.263 [main] INFO  Resources.Base - Successfully Added job title in database.
+19:45:40.263 [main] INFO  Resources.Base - [TestResult name=AddingJobTitle status=SUCCESS method=AddJobTitle.AddingJobTitle(java.lang.String, java.lang.String)[pri:0, instance:HRM.AddJobTitle@7bab3f1a] output={null}] Test passed
+19:45:40.264 [main] INFO  Resources.Base - [TestResult name=AddingJobTitle status=STARTED method=AddJobTitle.AddingJobTitle(java.lang.String, java.lang.String)[pri:0, instance:HRM.AddJobTitle@7bab3f1a] output={null}] Start execution
+19:45:40.264 [main] DEBUG Resources.Base - Now hitting URL
+19:45:41.410 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:45:43.219 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:45:46.404 [main] INFO  Resources.Base - Landed on Job Titlespage.
+19:45:48.870 [main] INFO  Resources.Base - Successfully Added job title in database.
+19:45:48.870 [main] INFO  Resources.Base - [TestResult name=AddingJobTitle status=SUCCESS method=AddJobTitle.AddingJobTitle(java.lang.String, java.lang.String)[pri:0, instance:HRM.AddJobTitle@7bab3f1a] output={null}] Test passed
+19:45:48.871 [main] DEBUG Resources.Base - Closing driver after test case execution.
+19:45:49.106 [main] INFO  Resources.Base - Diver closeed sucessfully.
+19:45:49.120 [main] DEBUG Resources.Base - Intializing DriverInitilize method.
+19:45:49.121 [main] INFO  Resources.Base - Selected Google chrome browser for testcases excecution.
+19:45:51.681 [main] DEBUG Resources.Base - Chrome Driver executed.
+19:45:52.822 [main] INFO  Resources.Base - Window Maximized
+19:45:52.826 [main] INFO  Resources.Base - Implicit wait set as 10 SECONDS.
+19:45:52.826 [main] DEBUG Resources.Base - Now hitting URL
+19:45:55.680 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:45:55.682 [main] INFO  Resources.Base - [TestResult name=creatnewuser status=STARTED method=AddUser.creatnewuser()[pri:0, instance:HRM.AddUser@67f639d3] output={null}] Start execution
+19:45:58.242 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:46:02.260 [main] INFO  Resources.Base - Landed on User Management page.
+19:46:03.729 [main] INFO  Resources.Base - Sucessfully added new user
+19:46:03.730 [main] INFO  Resources.Base - [TestResult name=creatnewuser status=SUCCESS method=AddUser.creatnewuser()[pri:0, instance:HRM.AddUser@67f639d3] output={null}] Test passed
+19:46:03.730 [main] DEBUG Resources.Base - Closing driver after test case execution.
+19:46:03.837 [main] INFO  Resources.Base - Diver closeed sucessfully.
+19:46:03.864 [main] DEBUG Resources.Base - Intializing DriverInitilize method.
+19:46:03.864 [main] INFO  Resources.Base - Selected Google chrome browser for testcases excecution.
+19:46:06.159 [main] DEBUG Resources.Base - Chrome Driver executed.
+19:46:07.309 [main] INFO  Resources.Base - Window Maximized
+19:46:07.314 [main] INFO  Resources.Base - Implicit wait set as 10 SECONDS.
+19:46:07.315 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=STARTED method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@51e69659] output={null}] Start execution
+19:46:07.315 [main] DEBUG Resources.Base - Now hitting URL
+19:46:10.205 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:46:12.904 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:46:15.941 [main] INFO  Resources.Base - Landed on User Management page.
+19:46:16.748 [main] INFO  Resources.Base - Search funcationality of user working properly.
+19:46:16.749 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=SUCCESS method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@51e69659] output={null}] Test passed
+19:46:16.750 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=STARTED method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@51e69659] output={null}] Start execution
+19:46:16.751 [main] DEBUG Resources.Base - Now hitting URL
+19:46:17.437 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:46:19.173 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:46:21.747 [main] INFO  Resources.Base - Landed on User Management page.
+19:46:22.593 [main] INFO  Resources.Base - Search funcationality of user working properly.
+19:46:22.594 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=SUCCESS method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@51e69659] output={null}] Test passed
+19:46:22.595 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=STARTED method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@51e69659] output={null}] Start execution
+19:46:22.595 [main] DEBUG Resources.Base - Now hitting URL
+19:46:23.040 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+19:46:24.811 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+19:46:27.241 [main] INFO  Resources.Base - Landed on User Management page.
+19:46:28.144 [main] INFO  Resources.Base - Search funcationality of user working properly.
+19:46:28.145 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=SUCCESS method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@51e69659] output={null}] Test passed
+19:46:28.146 [main] DEBUG Resources.Base - Closing driver after test case execution.
+19:46:28.276 [main] INFO  Resources.Base - Diver closeed sucessfully.
+20:02:20.701 [main] DEBUG Resources.Base - Intializing DriverInitilize method.
+20:02:20.719 [main] INFO  Resources.Base - Selected Google chrome browser as headless for testcases excecution.
+20:02:24.053 [main] DEBUG Resources.Base - Chrome Driver executed as Headless.
+20:02:25.193 [main] INFO  Resources.Base - Window Maximized
+20:02:25.208 [main] INFO  Resources.Base - Implicit wait set as 10 SECONDS.
+20:02:25.232 [main] INFO  Resources.Base - [TestResult name=Login status=STARTED method=LoginLogout.Login(java.lang.String, java.lang.String)[pri:0, instance:HRM.LoginLogout@2ed2d9cb] output={null}] Start execution
+20:02:25.233 [main] DEBUG Resources.Base - Now hitting URL
+20:02:28.588 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+20:02:29.707 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+20:02:29.708 [main] INFO  Resources.Base - [TestResult name=Login status=SUCCESS method=LoginLogout.Login(java.lang.String, java.lang.String)[pri:0, instance:HRM.LoginLogout@2ed2d9cb] output={null}] Test passed
+20:02:29.708 [main] INFO  Resources.Base - [TestResult name=Login status=STARTED method=LoginLogout.Login(java.lang.String, java.lang.String)[pri:0, instance:HRM.LoginLogout@2ed2d9cb] output={null}] Start execution
+20:02:29.709 [main] DEBUG Resources.Base - Now hitting URL
+20:02:30.078 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+20:02:32.139 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+20:02:32.140 [main] INFO  Resources.Base - [TestResult name=Login status=SUCCESS method=LoginLogout.Login(java.lang.String, java.lang.String)[pri:0, instance:HRM.LoginLogout@2ed2d9cb] output={null}] Test passed
+20:02:32.144 [main] DEBUG Resources.Base - Closing driver after test case execution.
+20:02:32.212 [main] INFO  Resources.Base - Diver closeed sucessfully.
+20:02:32.240 [main] DEBUG Resources.Base - Intializing DriverInitilize method.
+20:02:32.240 [main] INFO  Resources.Base - Selected Google chrome browser as headless for testcases excecution.
+20:02:34.613 [main] DEBUG Resources.Base - Chrome Driver executed as Headless.
+20:02:35.741 [main] INFO  Resources.Base - Window Maximized
+20:02:35.745 [main] INFO  Resources.Base - Implicit wait set as 10 SECONDS.
+20:02:35.746 [main] INFO  Resources.Base - [TestResult name=AddingJobTitle status=STARTED method=AddJobTitle.AddingJobTitle(java.lang.String, java.lang.String)[pri:0, instance:HRM.AddJobTitle@21282ed8] output={null}] Start execution
+20:02:35.747 [main] DEBUG Resources.Base - Now hitting URL
+20:02:38.792 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+20:02:41.026 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+20:02:45.747 [main] INFO  Resources.Base - Landed on Job Titlespage.
+20:02:57.826 [main] INFO  Resources.Base - [TestResult name=AddingJobTitle status=STARTED method=AddJobTitle.AddingJobTitle(java.lang.String, java.lang.String)[pri:0, instance:HRM.AddJobTitle@21282ed8] output={null}] Start execution
+20:02:57.826 [main] DEBUG Resources.Base - Now hitting URL
+20:02:59.063 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+20:03:00.823 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+20:03:04.462 [main] INFO  Resources.Base - Landed on Job Titlespage.
+20:03:16.220 [main] DEBUG Resources.Base - Closing driver after test case execution.
+20:03:16.266 [main] INFO  Resources.Base - Diver closeed sucessfully.
+20:03:16.302 [main] DEBUG Resources.Base - Intializing DriverInitilize method.
+20:03:16.303 [main] INFO  Resources.Base - Selected Google chrome browser as headless for testcases excecution.
+20:03:18.672 [main] DEBUG Resources.Base - Chrome Driver executed as Headless.
+20:03:19.793 [main] INFO  Resources.Base - Window Maximized
+20:03:19.799 [main] INFO  Resources.Base - Implicit wait set as 10 SECONDS.
+20:03:19.799 [main] DEBUG Resources.Base - Now hitting URL
+20:03:22.934 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+20:03:22.936 [main] INFO  Resources.Base - [TestResult name=creatnewuser status=STARTED method=AddUser.creatnewuser()[pri:0, instance:HRM.AddUser@12aba8be] output={null}] Start execution
+20:03:25.046 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+20:03:28.666 [main] INFO  Resources.Base - Landed on User Management page.
+20:03:30.128 [main] INFO  Resources.Base - Sucessfully added new user
+20:03:30.128 [main] INFO  Resources.Base - [TestResult name=creatnewuser status=SUCCESS method=AddUser.creatnewuser()[pri:0, instance:HRM.AddUser@12aba8be] output={null}] Test passed
+20:03:30.129 [main] DEBUG Resources.Base - Closing driver after test case execution.
+20:03:30.169 [main] INFO  Resources.Base - Diver closeed sucessfully.
+20:03:30.176 [main] DEBUG Resources.Base - Intializing DriverInitilize method.
+20:03:30.177 [main] INFO  Resources.Base - Selected Google chrome browser as headless for testcases excecution.
+20:03:32.496 [main] DEBUG Resources.Base - Chrome Driver executed as Headless.
+20:03:33.622 [main] INFO  Resources.Base - Window Maximized
+20:03:33.626 [main] INFO  Resources.Base - Implicit wait set as 10 SECONDS.
+20:03:33.628 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=STARTED method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@82de64a] output={null}] Start execution
+20:03:33.628 [main] DEBUG Resources.Base - Now hitting URL
+20:03:36.824 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+20:03:39.073 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+20:03:41.624 [main] INFO  Resources.Base - Landed on User Management page.
+20:03:42.426 [main] INFO  Resources.Base - Search funcationality of user working properly.
+20:03:42.429 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=SUCCESS method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@82de64a] output={null}] Test passed
+20:03:42.434 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=STARTED method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@82de64a] output={null}] Start execution
+20:03:42.434 [main] DEBUG Resources.Base - Now hitting URL
+20:03:42.805 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+20:03:44.284 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+20:03:47.228 [main] INFO  Resources.Base - Landed on User Management page.
+20:03:48.052 [main] INFO  Resources.Base - Search funcationality of user working properly.
+20:03:48.053 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=SUCCESS method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@82de64a] output={null}] Test passed
+20:03:48.053 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=STARTED method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@82de64a] output={null}] Start execution
+20:03:48.053 [main] DEBUG Resources.Base - Now hitting URL
+20:03:48.484 [main] INFO  Resources.Base - Landed on OrangeHRM login Page.
+20:03:50.168 [main] INFO  Resources.Base - Successfully Login into aplication with Admin
+20:03:51.999 [main] INFO  Resources.Base - Landed on User Management page.
+20:03:52.737 [main] INFO  Resources.Base - Search funcationality of user working properly.
+20:03:52.738 [main] INFO  Resources.Base - [TestResult name=SearchUsername status=SUCCESS method=SearchUser.SearchUsername(java.lang.String, java.lang.String)[pri:0, instance:HRM.SearchUser@82de64a] output={null}] Test passed
+20:03:52.739 [main] DEBUG Resources.Base - Closing driver after test case execution.
+20:03:52.784 [main] INFO  Resources.Base - Diver closeed sucessfully.

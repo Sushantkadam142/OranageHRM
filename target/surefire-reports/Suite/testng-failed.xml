@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]" parallel="none">
+  <listeners>
+    <listener class-name="HRM.Listeners"/>
+    <listener class-name="Resources.ExtentReporterNG"/>
+  </listeners>
+  <test name="AddJobtile(failed)" parallel="none">
+    <classes>
+      <class name="HRM.AddJobTitle">
+        <methods>
+          <include name="aftertest"/>
+          <include name="AddingJobTitle" invocation-numbers="0 1"/>
+          <include name="beforetest"/>
+        </methods>
+      </class> <!-- HRM.AddJobTitle -->
+      <class name="HRM.LoginLogout">
+        <methods>
+          <include name="aftertest"/>
+          <include name="beforetest"/>
+        </methods>
+      </class> <!-- HRM.LoginLogout -->
+      <class name="HRM.AddUser">
+        <methods>
+          <include name="beforetest"/>
+          <include name="aftertest"/>
+        </methods>
+      </class> <!-- HRM.AddUser -->
+      <class name="HRM.SearchUser">
+        <methods>
+          <include name="aftertest"/>
+          <include name="beforetest"/>
+        </methods>
+      </class> <!-- HRM.SearchUser -->
+    </classes>
+  </test> <!-- AddJobtile(failed) -->
+</suite> <!-- Failed suite [Suite] -->
